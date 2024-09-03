@@ -2,8 +2,8 @@
   "blogs": [
     {
       "id": "1",
-      "title": "Some amazing blog title",
-      "content": "Some amazing content"
+      "title": "Some average blog title",
+      "content": "Some average content"
     },
     {
       "id": "2",
@@ -11,24 +11,24 @@
       "content": "Some boring content"
     },
     {
-      "id": "3",
-      "title": "Some average blog title",
-      "content": "Some average content"
+      "id": "a0dd",
+      "title": "A newish title",
+      "content": "some content"
     },
     {
-      "id": "4578",
-      "title": "A blog about coding",
-      "content": "halp, something broke"
+      "id": "1f7c",
+      "title": "Some other title!",
+      "content": "some other content..."
     },
     {
-      "id": "00c6",
-      "title": "Brand New Blog",
-      "content": "This is a brand new blog that's about stuff."
+      "id": "c5b1",
+      "title": "Variables and scope",
+      "content": "Variables have global scope in the root of the file."
     },
     {
-      "id": "d670",
-      "title": "let's hope that",
-      "content": "This works!"
+      "id": "3b3e",
+      "title": "Some new title",
+      "content": "after the variables blog"
     }
   ]
 }
